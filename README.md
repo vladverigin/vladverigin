@@ -1,13 +1,16 @@
 # Hi there 👋
-Self-motivated Developer adds high level of experience over more than 3 years collaborating and working on multiple web-based projects. Passionate, hardworking coder with penchant for developing customized interfaces that factor in unique demands for accessibility, reachability and security. Organized approach to meeting multiple, concurrent deadlines. Pulls from active knowledge of current technology landscape to promote best practices in web design.
+Self-motivated Developer adds high level of experience over more than 3 years collaborating and working on multiple web-based projects. Passionate, hardworking coder with penchant for developing customized interfaces that factor in unique demands for accessibility, reachability and security. Organized approach to meeting multiple, concurrent deadlines. Pulls from active knowledge of current technology landscape to promote best practices in web design. 😎
 
-## 🤔 Tech Stack
+## 💻  Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,javascript,typescript,vue,postgres,mysql,vite&perline=4)](https://skillicons.dev)
 
-## Development worskpace
+## 🔨 Development worskpace
 [![My Skills](https://skillicons.dev/icons?i=linux,github,phpstorm,neovim,nginx,docker,figma,postman&perline=4)](https://skillicons.dev)
 
-## Work History
+## 🚶 I'm planning to learn
+[![My Skills](https://skillicons.dev/icons?i=go,wasm,bun,sqlite,svelte)](https://skillicons.dev)
+
+## 👷 Work History
 - ### Website Developer 2019.01 - 2022.04
     - Planned website development, converting mockups into usable web presence with HTML, JavaScript, AJAX and JSON coding.
     - Optimized company's website and main corporate blog to boost SEO traffic to sites.
